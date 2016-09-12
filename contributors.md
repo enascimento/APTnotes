@@ -12,3 +12,10 @@
 * andrewsmhay 
 * sroberts 
 * deralexxx 
+* krmaxwell
+* deadbits 
+* gasgas4 
+* srcr 
+* thoufique
+* mtivadar 
+* beast-fighter
